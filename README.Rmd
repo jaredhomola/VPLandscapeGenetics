@@ -22,12 +22,19 @@ library(devtools)
 install_github("jaredhomola/VPLandscapeGenetics")
 ```
 
+Following installation, all data associated with the analyses are available via:
+
+```{r eval=FALSE}
+data(VPLandscapeGenetics)
+```
+
+
 ### Contact
-Jared J. Homola
-jaredhomola20@gmail.com
-Dept. of Fisheries and Wildlife
-Michigan State University
-www.jaredhomola.com
+Jared J. Homola  
+jaredhomola20@gmail.com  
+Dept. of Fisheries and Wildlife  
+Michigan State University  
+www.jaredhomola.com  
 
 
 #### Copyright (c) 2018 Jared J. Homola
