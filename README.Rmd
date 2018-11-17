@@ -1,0 +1,38 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+# VPLandscapeGenetics
+
+VPLandscapeGenetics is a research compendium that brings together the data and analyses associated with Homola et al. (in review). R scripts are provided in analysis/, human-readable data in extData/, and R-readable data in an .rda file in data/. 
+
+Completed analysis scripts:
+- packageSetup
+- dbRDA
+- diversityAndNullAlleles
+- geneticDivergence
+- ibdResidualRegression
+- ibdScalingProfiles
+- mantelCorrelogram
+- mantelPlots
+- mantelTests
+- MMRR
+
+## To get started using the package
+```{r example}
+install.packages("devtools")
+library(devtools)
+install_github("jaredhomola/VPLandscapeGenetics")
+```
