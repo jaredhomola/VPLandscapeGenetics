@@ -32,8 +32,6 @@ data(VPLandscapeGenetics)
 ### Contact
 Jared J. Homola  
 jaredhomola20@gmail.com  
-Dept. of Fisheries and Wildlife  
-Michigan State University  
 www.jaredhomola.com  
 
 
