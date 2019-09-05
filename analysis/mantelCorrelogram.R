@@ -7,6 +7,7 @@ library(vegan)
 library(mmod)
 library(VPLandscapeGenetics)
 library(tidyverse)
+library(geosphere)
 data(VPLandscapeGenetics)
 
 ##### Calculate genetic distances #####
