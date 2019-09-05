@@ -3,8 +3,6 @@ Type: Package
 Title: Vernal Pool Amphibian Landscape Genetics
 Version: 0.1.0
 Author: Jared Homola <jaredhomola20@gmail.com>
-Description: VPLandscapeGenetics is a research compendium that brings together the data and analyses 
-associated with Homola et al. (in review). R scripts are provided in analysis/, human-readable data 
-in extData/, and R-readable data in an .rda file in data/. 
+Description: VPLandscapeGenetics is a research compendium for Homola et al. 2019, Ecology and Evolution 
 Encoding: UTF-8
 LazyData: true
