@@ -6,3 +6,4 @@ Author: Jared Homola <jaredhomola20@gmail.com>
 Description: VPLandscapeGenetics is a research compendium for Homola et al. 2019, Ecology and Evolution 
 Encoding: UTF-8
 LazyData: true
+License: MIT License
