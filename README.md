@@ -1,6 +1,8 @@
 VPLandscapeGenetics
 ===================
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403056.svg)](https://doi.org/10.5281/zenodo.3403056)
+
 VPLandscapeGenetics is a research compendium that brings together the
 data and analyses associated with Homola et al. 2019, Ecology and
 Evolution. R scripts are provided in analysis/, human-readable data in

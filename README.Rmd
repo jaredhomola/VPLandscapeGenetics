@@ -11,6 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #VPLandscapeGenetics
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403056.svg)](https://doi.org/10.5281/zenodo.3403056)
+
+
 VPLandscapeGenetics is a research compendium that brings together the data and analyses associated with Homola et al. 2019, Ecology and Evolution. R scripts are provided in analysis/, human-readable data in extData/, and R-readable data in an .rda file in data/. 
 
 Note: All analyses originally conducted and package built using R version 3.5.1 in Windows 10
