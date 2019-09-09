@@ -1,7 +1,10 @@
+VPLandscapeGenetics
+===================
+
 VPLandscapeGenetics is a research compendium that brings together the
-data and analyses associated with Homola et al. (in review). R scripts
-are provided in analysis/, human-readable data in extData/, and
-R-readable data in an .rda file in data/.
+data and analyses associated with Homola et al. 2019, Ecology and
+Evolution. R scripts are provided in analysis/, human-readable data in
+extData/, and R-readable data in an .rda file in data/.
 
 Note: All analyses originally conducted and package built using R
 version 3.5.1 in Windows 10
@@ -24,7 +27,7 @@ Jared J. Homola
 <jaredhomola20@gmail.com>  
 www.jaredhomola.com
 
-#### Copyright (c) 2018 Jared J. Homola
+#### Copyright (c) 2019 Jared J. Homola
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
